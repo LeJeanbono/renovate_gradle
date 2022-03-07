@@ -1,7 +1,7 @@
 buildscript {
     ext {
         springBootVersion = '2.2.3.RELEASE'
-        lombokVersion = '1.18.10'
+        lombokVersion = '1.18.22'
         swaggerVersion = '2.6.1'
         jsonVersion = '20180130'
         junitJupiterVersion = '5.2.0'
