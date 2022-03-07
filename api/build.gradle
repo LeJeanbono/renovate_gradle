@@ -8,7 +8,7 @@ buildscript {
         commonsLang = '2.6'
         junitVersion = '4.12'
         mongoEmbeddedVersion = '2.2.0'
-        httpComponentVersion = '4.5.5'
+        httpComponentVersion = '4.5.13'
         apacheCommonVersion = '1.3.2'
         slf4jApiVersion = '1.7.25'
         logbackClassicVersion = '1.2.3'
