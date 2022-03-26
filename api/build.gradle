@@ -99,7 +99,7 @@ dependencies {
     implementation("org.springframework.boot:spring-boot-starter-data-redis")
 
     // PDF
-    implementation("org.xhtmlrenderer:flying-saucer-pdf-openpdf:9.1.18")
+    implementation("org.xhtmlrenderer:flying-saucer-pdf-openpdf:9.1.22")
     implementation("net.sf.jtidy:jtidy:r938")
 
     // https://mvnrepository.com/artifact/org.codehaus.groovy/groovy
